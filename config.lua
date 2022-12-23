@@ -36,6 +36,20 @@ MBT.Labels = {
         ["jacket"] = "Jacket",
         ["sett_name"] = "Clothes Menu"
     },
+    ["FR"] = {
+        ["nothing_to_unwear"] = "Vous n'avez pas de vêtements à enlever !",
+        ["props_desc"] = "Accessoire appartenant à %s",
+        ["clothes_desc"] = "Vêtement appartenant à %s",
+        ["ear_acc"] = "Accessoires d'oreille",
+        ["glasses"] = "Lunettes",
+        ["hats"] = "Chapeaux",
+        ["arms"] = "Bras",
+        ["legs"] = "Jambes",
+        ["foot"] = "Pied",
+        ["t_shirt"] = "T-shirt",
+        ["jacket"] = "Veste",
+        ["sett_name"] = "Menu Vêtements"
+    },
 }
 
 MBT.Drawables = {
